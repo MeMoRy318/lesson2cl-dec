@@ -1,0 +1,18 @@
+body{
+    box-sizing: border-box;
+}
+.target{
+    overflow: hidden;
+    width: 600px;
+    height: 400px;
+    background: #7f7f80;
+    box-shadow: #d0b88c -15px -31px 9px 2px;
+    margin-bottom: 20px;
+}
+.target1{
+    border-left: red solid 5px;
+    padding-left: 30px;
+}
+.target2{
+    padding: 50px 237px 1px 100px;
+}
